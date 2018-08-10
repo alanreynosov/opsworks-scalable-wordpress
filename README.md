@@ -1,4 +1,4 @@
-# wordpress-scalable
 
-TODO: Enter the cookbook description here.
+# opsworks-scalable-wordpress
+Opsworks Chef Cookbook  to Install Scalable Wordpress 
 
